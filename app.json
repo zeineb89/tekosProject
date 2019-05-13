@@ -1,0 +1,7 @@
+{
+  "name": "valid heroku Sample",
+  "description": "just for testing",
+  "repository": "https://git@github.com:zeineb89/tekosProject.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "valid", "heruko"]
+}
